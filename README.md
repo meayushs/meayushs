@@ -6,5 +6,6 @@
 ## 💻 Tech Stack
 **Languages:**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
----
+<p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="27" height="27" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /></a>
+</p>
