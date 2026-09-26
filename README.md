@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=750&color=FFCA4B&repeat=false&width=435&lines=Hi+there%2C+I+am+Ayush)](https://git.io/typing-svg)
----
+## Hi there, I am Ayush 👋
 **`Curious, learning, and building 🌱`**
 
 ![Views](https://komarev.com/ghpvc/?username=iayushs08&label=Views&color=007ec6&style=flat-square)&nbsp;&nbsp;![Followers](https://img.shields.io/github/followers/meayushs?label=Followers&style=flat-square&color=2EA44F)&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/meayushs?label=Stars&style=flat-square&color=FFC107)
